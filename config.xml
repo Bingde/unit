@@ -31,7 +31,7 @@
     -->
 
     <!-- Plugins -->
-    <gap:plugin name="com.google.cordova.admob" source="plugins.cordova.io version="~2.7.4""/>
+    <gap:plugin name="com.google.cordova.admob" source="plugins.cordova.io version="~2.7.4"/>
     <!-- Core plugins -->
    
 
