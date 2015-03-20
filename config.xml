@@ -7,7 +7,7 @@
         id        = "com.libingweb.unitconverter"
         version   = "0.0.1">
 
-    <name>unit converter</name>
+    <name>Unit converter</name>
 
     <description>
      Best online unit converter all in one.
